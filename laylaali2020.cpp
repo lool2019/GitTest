@@ -1,7 +1,11 @@
 #include <iostream>
+
 using namespace std;
 
-int main() {
-    cout << "hello";
+int main()
+
+{
+
+    cout << "\n\n I've participated in The Game's developers program!\n\n" ;
     return 0;
 }
